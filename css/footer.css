@@ -1,0 +1,21 @@
+#footer{
+	height:30px;
+	width:100%;
+	background-color: #4CAF50;
+	background-repeat: no-repeat;
+	filter: none;
+	border: 1px solid #D5D5D5;
+	position: relative;
+	right: 0;
+	left: 0;
+	z-index: -1030;
+	top:20px;
+	border-width: 1px 0 0;
+}
+.footer-title{
+	margin-top:5px;
+	color: #ffffff;
+	margin-right:5px;
+	float:right;
+	font-family:Helvetica Neue;
+}
